@@ -87,6 +87,10 @@ a{
   padding:80px 0;
 }
 
+.play{
+  margin:60px 0 10px
+}
+
 /* l-footer */
 
 /* home */
@@ -180,6 +184,7 @@ a{
 .btn_question{
     background-color: #F87624;
 }
+
 
 /* card */
 .card{
